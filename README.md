@@ -69,6 +69,8 @@ Components land in `src/components/ui/`. That folder is excluded from some lint/
 
 `.vscode/settings.json` and `.vscode/extensions.json` are committed to the repo. Opening it in VS Code will prompt you to install the recommended extensions: Oxc, Prettier, Tailwind CSS IntelliSense, GitHub Actions, Vitest Explorer, SonarQube, and a few others.
 
+Path Intellisense picks up the `@/*` alias automatically from `tsconfig.json`, no extra config needed.
+
 ## CI
 
 Every push and pull request to `main` runs:

@@ -3,14 +3,14 @@
         "esbenp.prettier-vscode",
         "oxc.oxc-vscode",
         "bradlc.vscode-tailwindcss",
-        "naumovs.color-highlight",
-        "streetsidesoftware.code-spell-checker",
         "pflannery.vscode-versionlens",
         "mhutchie.git-graph",
         "SonarSource.sonarlint-vscode",
         "github.vscode-github-actions",
         "vitest.explorer",
         "christian-kohler.path-intellisense",
-        "formulahendry.auto-rename-tag"
+        "formulahendry.auto-rename-tag",
+        "usernamehw.errorlens",
+        "yoavbls.pretty-ts-errors"
     ]
 }
