@@ -16,6 +16,13 @@
         {
             "files": ["src/components/ui/**/*.{ts,tsx}"],
             "rules": {
+                "react/only-export-components": "off",
+                "jsx-a11y/prefer-tag-over-role": "off"
+            }
+        },
+        {
+            "files": ["src/router/app.router.tsx"],
+            "rules": {
                 "react/only-export-components": "off"
             }
         }
