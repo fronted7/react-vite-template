@@ -5,8 +5,9 @@ function App() {
         <div className="flex min-h-screen flex-col items-center justify-center gap-4 bg-slate-900 px-6 text-center">
             <h1 className="text-4xl font-bold text-white">React Vite Template</h1>
             <p className="max-w-md text-slate-400">
-                A React + Vite + TypeScript boilerplate with Oxlint, Prettier, Tailwind, Shadcn
-                (only button imported), Vitest, and CI/CD already set up.
+                A React + Vite + TypeScript boilerplate with Tailwind, Oxlint, Prettier, Vitest, and
+                CI/CD already set up — plus shadcn/ui configured (Button included as an example; add
+                more components as needed).
             </p>
 
             <div className="mt-8">
